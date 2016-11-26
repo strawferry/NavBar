@@ -53,4 +53,7 @@ export default class TestNavBar extends Component {
 |rightTitle|React.PropTypes.string|`"your title"`|文本标题|
 |titleColor|React.PropTypes.any|`"red"`|title标题颜色|
 
+![图片](https://github.com/strawferry/NavBar/blob/master/image/Android.png)
+![图片](https://github.com/strawferry/NavBar/blob/master/image/iOS.png)
+
 
