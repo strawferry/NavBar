@@ -1,11 +1,22 @@
 {
   "name": "react-native-ccs-navbar",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ReactNative navbar",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/strawferry/NavBar.git"
+},
+  "dependencies": {
+    "prop-types":"^15.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/strawferry/NavBar/issues"
+  },
+  "homepage": "https://cblog.ferryvip.com",
   "keywords": [
     "react",
     "ReactNative",

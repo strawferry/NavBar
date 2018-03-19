@@ -1,3 +1,5 @@
+# new update
+fix the iPhone X ;
 # How To Use!
 
 ## step1
@@ -53,7 +55,9 @@ export default class TestNavBar extends Component {
 |rightTitle|React.PropTypes.string|`"your title"`|文本标题|
 |titleColor|React.PropTypes.any|`"red"`|title标题颜色|
 
-![图片](https://github.com/strawferry/NavBar/blob/master/image/Android.png)
-![图片](https://github.com/strawferry/NavBar/blob/master/image/iOS.png)
+
+| Android | iOS | iPhone X |
+|:---:|:---:|:---:|
+|![图片](https://ws1.sinaimg.cn/large/8bbf0afbly1fphxmegzuvj20u21aqdi4.jpg)|![图片](https://ws1.sinaimg.cn/large/8bbf0afbly1fphxmeeiurj20pv1a0756.jpg)|![图片](https://ws1.sinaimg.cn/large/8bbf0afbly1fphxsbjkgtj20o21bc75l.jpg)|
 
 
